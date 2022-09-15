@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Maximilian
+#### I`m a Full Stack JavaScript developer and Consultant for </SALT>
 
 <!--
 **MaximilianLS98/MaximilianLS98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
