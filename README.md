@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Maximilian 
-#### I'm a Full Stack JavaScript developer and Consultant for SALT 🧂
+#### I'm a Full Stack JavaScript developer at WAYS.
+
+### Currently hooked on Next.js, tailwind and SanityCMS
 
 
 
