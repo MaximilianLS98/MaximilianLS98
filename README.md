@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Maximilian 
 #### I'm a Full Stack developer at WAYS.
 
-### Currently hooked on Next.js, TailwindCSS and split between Strapi and Sanity
-### 🌱 Also in the process of learning Shopify Hydrogen and Remix for Ecommerce
+#### 🔥 Currently hooked on Next.js, TailwindCSS and split between Strapi and Sanity
+#### 🌱 Also in the process of learning Shopify Hydrogen and Remix for Ecommerce
 
 📫 Contact me at Maximilianls@outlook.com
 
