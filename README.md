@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Maximilian 
 #### I'm a Full Stack JavaScript developer at WAYS.
 
-### Currently hooked on Next.js, tailwind and SanityCMS
+### Currently hooked on Next.js, TailwindCSS and deciding between Strapi and Sanity
 
 
 
